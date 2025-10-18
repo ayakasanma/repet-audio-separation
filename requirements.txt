@@ -1,0 +1,7 @@
+numpy>=1.21.0
+librosa>=0.9.0
+soundfile>=0.11.0
+scipy>=1.7.0
+pygame>=2.1.0
+mutagen>=1.45.0
+pyaudio>=0.2.11
