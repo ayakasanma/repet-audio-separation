@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">REPET Audio Separation</string>
+    <string name="app_title">REPET Audio Separation</string>
+    <string name="app_description">Separate vocals and instrumentals from audio files using the REPET algorithm</string>
+    <string name="select_file">Select Audio File</string>
+    <string name="separate_audio">Separate Audio</string>
+    <string name="status_initial">No file selected</string>
+</resources>
